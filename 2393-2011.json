@@ -1,0 +1,30 @@
+{
+    "Buyer": {
+        "1": {
+            "name": "கேகுப்புசாமி",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "1/287 ஏழுமலை கவுண்டர் நகர்நரஜோதிப்பட்டி சேலம்"
+        }
+    },
+    "Seller": {
+        "2": {
+            "name": "எஸ்மோகன்தாஸ்",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "2/331 ஆலாங்கொம்பு"
+        },
+        "3": {
+            "name": "டிசெந்தில்",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "1/2பி உழவன் வீதி ஈரோடு"
+        }
+    }
+}

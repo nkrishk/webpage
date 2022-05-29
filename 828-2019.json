@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ஆர் சண்முகசுந்தரம் son of எம் ரங்கையகவுடர்",
+            "age": "57",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "3/132 மோத்தேபாளையம் - Select - Mettupalayam Coimbatore Tamil Nadu 641302"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "ஐ அனார்கலி wife of எம் ஐ முகமது யூசுப்",
+            "age": "45",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9442343740"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "எஸ் கோபால்சாமி son of சுப்பையன்",
+            "age": "52",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "கே கிருஷ்ணமூர்த்தி son of கருப்பன்",
+            "age": "55",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

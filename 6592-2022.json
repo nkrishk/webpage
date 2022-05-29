@@ -1,0 +1,52 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ரவிச்சந்திரன் son of சின்னமுத்து",
+            "age": "52",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9865441453",
+            "address": "8/2114ஏ, புளூஹில்ஸ் அவென்யூ, ஜடையம்பாளையம் - Select - - Select - Coimbatore Tamil Nadu 641301"
+        },
+        "2": {
+            "name": "ராமகிருஷ்ணன் son of சின்னமுத்து",
+            "age": "49",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "32/1, காந்தி நகர், காரமடை - Select - - Select - Coimbatore Tamil Nadu 641104"
+        },
+        "3": {
+            "name": "காயத்ரி wife of பிரதீப்குமார்",
+            "age": "45",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "",
+            "address": "606, பி.பிளாக், பருத்திப்பட்டு ஆவடி, திருவள்ளூர் - Select - - Select - Tiruvallur Tamil Nadu 608805"
+        },
+        "4": {
+            "name": "ஜெஸ்வின் வின்சென்ட்ராஜ் son of ராதாகிருஷ்ணன்",
+            "age": "46",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "12/73, தொரைஜாடா, சாந்தூர், கேத்தி, நீலகிரி - Select - - Select - Nilgiris Tamil Nadu 643217"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "கிருஷ்ணமூர்த்தி son of கருப்பன்",
+            "age": "42",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "கலியமூர்த்தி son of பெரியசாமி",
+            "age": "42",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

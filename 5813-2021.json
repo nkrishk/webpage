@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "பாலசாமி son of சுப்பையன்",
+            "age": "48",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "276, கோனார்பாளையம், அல்லப்பாளையம் ALLAPALAYAM. Annur Coimbatore Tamil Nadu 641653"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "அம்பிகா wife of விஸ்வநாதன்",
+            "age": "50",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9942168770"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "ஸ்ரீதர் son of ரங்கசாமி",
+            "age": "44",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "தனராஜ் son of நஞ்சையநாயக்கர்",
+            "age": "65",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

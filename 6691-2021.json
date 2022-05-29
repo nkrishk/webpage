@@ -1,0 +1,53 @@
+{
+    "Seller": {
+        "1": {
+            "name": "தனராஜ் son of காலம் சென்ற நஞ்சாநாயக்கர்",
+            "age": "58",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9360513226",
+            "address": "2/536ஆர்90, அன்னுார் ரோடு, நால்ரோடு, ராமலட்சுமி நகர், பெள்ளாதி BELLATHI. Mettupalayam Coimbatore Tamil Nadu 641104"
+        },
+        "2": {
+            "name": "நரேஷ்குமார் son of தனராஜ்",
+            "age": "39",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "2/536ஆர்90, அன்னுார் ரோடு, நால்ரோடு, ராமலட்சுமி நகர், பெள்ளாதி BELLATHI. Mettupalayam Coimbatore Tamil Nadu 641104"
+        },
+        "3": {
+            "name": "நந்தகுமார் son of தனராஜ்",
+            "age": "27",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "2/536ஆர்90, அன்னுார் ரோடு, நால்ரோடு, ராமலட்சுமி நகர், பெள்ளாதி BELLATHI. Mettupalayam Coimbatore Tamil Nadu 641104"
+        }
+    },
+    "Mortgagee": {
+        "1": {
+            "name": "மேட்டுப்பாளையம் கூட்டுறவு வீட்டு வசதி சங்கம் லிமிடெட்",
+            "age": "-",
+            "gender": "-",
+            "type": "Government",
+            "mobile": ""
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "மாரிச்சாமி son of பழனிச்சாமி",
+            "age": "38",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "கணேசன் son of துரைசாமி",
+            "age": "30",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

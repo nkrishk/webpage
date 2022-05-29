@@ -1,0 +1,61 @@
+{
+    "Seller": {
+        "1": {
+            "name": "முத்துரத்தினம் son of செல்வராஜ்",
+            "age": "56",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "7871964640",
+            "address": "123, ஊர்கவுடர் வீதி, குட்டை யூர், KARAMADAI. Mettupalayam Coimbatore Tamil Nadu 641104"
+        },
+        "2": {
+            "name": "மாணிக்கராஜ் son of செல்வராஜ்",
+            "age": "53",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "7871964640",
+            "address": "3847, எல்.ஐ.ஜி.பேஸ் 2, காந்தி மாநகர் , - Select - Coimbatore South Coimbatore Tamil Nadu 641302"
+        },
+        "3": {
+            "name": "ஜெயசீலி wife of குமார்",
+            "age": "50",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9944135318",
+            "address": "பி4, பழைய காவலர் குடியிருப்பு ,வி.எச்.ரோடு, - Select - - Select - Coimbatore Tamil Nadu 641001"
+        },
+        "4": {
+            "name": "சாமிதுறை son of செல்வராஜ்",
+            "age": "47",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9944135318",
+            "address": "26/96, டீச்சர்ஸ் லைன் , பாரதி நகர், - Select - Mettupalayam Coimbatore Tamil Nadu 641301"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "விமலா wife of ராஜேந்திரன்",
+            "age": "41",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "7871964640"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "கணேஷ் son of ரங்கசாமி",
+            "age": "36",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "பழனிசாமி son of ராமசாமி",
+            "age": "59",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ரவிச்சந்திரன் son of சின்னமுத்து",
+            "age": "62",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9865441453",
+            "address": "8/211ஏ4, புளூஹில்ஸ் அவென்யூ, ஜடையம்பாளையம். - Select - - Select - Coimbatore Tamil Nadu 641104"
+        }
+    },
+    "Settlee": {
+        "1": {
+            "name": "அருண்குமார் son of ரவிச்சந்திரன்",
+            "age": "31",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9659684168"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "கலியமூர்த்தி son of பெரியசாமி",
+            "age": "70",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "கிருஷ்ணமூர்த்தி son of கருப்பன்",
+            "age": "57",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

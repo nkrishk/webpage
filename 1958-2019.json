@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ராஜேந்திரன் son of சின்னியகவுண்டர்",
+            "age": "43",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "61பி,நஞ்சப்பகவுண்டன் புதூர் BOGALUR. Annur Coimbatore Tamil Nadu 641697"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "முபாரக் son of இஸ்மாயில்",
+            "age": "28",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9629641487"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "மகேந்திரன் son of துரைசாமி",
+            "age": "44",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "மும்தாஜ்பேகம் wife of இஸ்மாயில்",
+            "age": "56",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

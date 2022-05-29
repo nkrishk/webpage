@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "சண்முகம் son of சாமியப்பகவுண்டர்",
+            "age": "60",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": ".4/93, அம்மன்கோவில் தோட்டம்,சின்னமத்தம்பாளையம், பிளிச்சி அஞ்சல், கோயம்புத்தூர் - Select - Coimbatore North Coimbatore Tamil Nadu 641019"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "சர்மிளா பானு wife of முகமது ஜபருல்லா",
+            "age": "35",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9944195875"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "முத்துலட்சுமி wife of சண்முகம்",
+            "age": "52",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "சாதிக்பாட்ஷா son of முகம்மது மீரான்",
+            "age": "51",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

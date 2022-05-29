@@ -1,0 +1,53 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ரங்கசாமி son of சின்னையன்",
+            "age": "64",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "5/525ஏ, ராஜீவ்காந்தி நகர், மேட்டுப்பாளையம் - Select - - Select - Coimbatore Tamil Nadu 641301"
+        },
+        "2": {
+            "name": "பிரேமா wife of தேவராஜ்",
+            "age": "37",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "",
+            "address": "3/665, கரிச்சிபாளையம், பிளிச்சி - Select - - Select - Coimbatore Tamil Nadu 641019"
+        },
+        "3": {
+            "name": "ராஜேஸ்குமார் son of ரங்கசாமி",
+            "age": "48",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "5/525, ராஜீவ்காந்தி நகர், மேட்டுப்பாளையம் - Select - - Select - Coimbatore Tamil Nadu 641301"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "ஆனந்தி wife of பாலகிருஷ்ணன்",
+            "age": "34",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9965248633"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "செல்வராஜ் son of ரங்கசாமி",
+            "age": "45",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "துரைராஜ் son of குள்ளாகவுடர்",
+            "age": "55",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

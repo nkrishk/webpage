@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "முகம்மது ஜமீல் son of முகமது ஹாசிம்",
+            "age": "46",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "97/பி, ஏ.வி.நாயுடு லேன், கீரின் பீல்டு, ஊட்டி - Select - - Select - Nilgiris Tamil Nadu 643217"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "சக்குபாய் wife of சசிகுமார்",
+            "age": "42",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9524460324"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "ராஜேந்திரன் son of ஈஸ்வர கவுடர்",
+            "age": "60",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "நாசர் son of இஸ்மாயில்",
+            "age": "68",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

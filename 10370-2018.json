@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "விமலா wife of ராஜேந்திரன்",
+            "age": "40",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "7871964640",
+            "address": "94/1, சத்தியசாய் நகர், அன்னு்ார் ரோடு - Select - Mettupalayam Coimbatore Tamil Nadu 641301"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "வீரேஸ்வரி wife of காவேரிராஜ்",
+            "age": "29",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "7871964640"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "சுசீலா wife of சுப்பிரமணி",
+            "age": "55",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "பழனிசாமி son of ராமசாமி",
+            "age": "58",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "மகேஸ்வரி தேவதாஸ் wife of தேவதாஸ்",
+            "age": "73",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "",
+            "address": "11, சந்தானம் வீதி, இராமநாதபுரம் Coimbatore South [URBAN] Coimbatore South Coimbatore Tamil Nadu 641045"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "அனித்தா wife of அன்புசெல்வம்",
+            "age": "44",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9894754344"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "நந்தகுமார் son of வெங்கட்ராமன்",
+            "age": "42",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "அன்புசெல்வம் son of கோல்டன்",
+            "age": "49",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

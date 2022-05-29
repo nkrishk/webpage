@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "செந்தில் குமார் son of பாண்டியன்",
+            "age": "39",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "15/1, ஸ்ரீ கலைவாணி இல்லம், டாக்டர் முனுசாமி கார்டன், அவிநாசி ரோடு, கோவை தெற்கு - Select - Coimbatore South Coimbatore Tamil Nadu 641018"
+        }
+    },
+    "Settlee": {
+        "1": {
+            "name": "ஸ்ரீ வாணி wife of செந்தில் குமார்",
+            "age": "37",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": ""
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "தீபக் son of பெருமாள் சாமி",
+            "age": "21",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "நந்தகுமார் son of லக்ஷ்மணசாமி",
+            "age": "26",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

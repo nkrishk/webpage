@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "சந்திரா wife of சந்திரசேகரன்",
+            "age": "45",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "",
+            "address": "8/167,எல்சியம், பிளசிங் மெடோஸ், கைக்கோளபாளையம், மைலம்பட்டி - Select - - Select - Coimbatore Tamil Nadu 641062"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "துரைசாமி son of காரையகவுடர்",
+            "age": "49",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9344379461"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "ரத்தினசாமி son of மாதையன்",
+            "age": "46",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "அருண்குமார் son of ராமசாமி",
+            "age": "36",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

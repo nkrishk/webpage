@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "சாஹிதாபானு wife of முபாரக்",
+            "age": "45",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9976745881",
+            "address": "3/1, செல்லமுத்து நகர், ஜமீன் ஊத்துக்குளி, பொள்ளாச்சி ZAMIN UTHUKULI. Pollachi Coimbatore Tamil Nadu 642004"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "சக்திவேல் son of பழனிச்சாமி",
+            "age": "46",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9842227796"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "திருநிறைசெல்வி wife of சக்திவேல்",
+            "age": "36",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "சம்சுதீன் son of முகம்மது அனிபா",
+            "age": "52",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

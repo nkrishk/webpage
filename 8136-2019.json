@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "சூசன் செரியன் wife of செரியன்",
+            "age": "81",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9944074252",
+            "address": "அனுகிரஹ வெட்டியல் ஹவுஸ் காடப்பிள்ளே சந்து கொடுங்கலுார் யூனியன் கிறிஸ்டியன் காலேஜ் எர்ணாகுளம் கேரளா    Kerala 683102"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "மகேஷ்குமார் son of திருப்பதிசாமி",
+            "age": "34",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "7538863438"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "சிவசாமி son of ஆறுக்குட்டிகவுண்டர்",
+            "age": "65",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "எல்லப்பராஜ் son of சுப்புராஜ்",
+            "age": "29",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ராஜி wife of வெங்கடேசன்",
+            "age": "43",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "",
+            "address": "10, காமராஜர் சாலை, நெடுங்காடு, காரைக்கால், பாண்டிச்சேரி.    Puducherry 609603"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "ரவிச்சந்திரன் son of சின்னமுத்து",
+            "age": "57",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9842273199"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "கிருஷ்ணமூர்த்தி son of கருப்பன்",
+            "age": "54",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "ராமன் son of கதிர்வேல்",
+            "age": "76",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ஹரிஹரன் son of கிருஷ்ணமூர்த்தி",
+            "age": "48",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "1395, தைலா நகர், மச்சுவாடி, புதுக்கோட்டை - Select - - Select - Pudukkottai Tamil Nadu 622004"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "உஷாராணி wife of சிவகுமார்",
+            "age": "48",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "8675852623"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "கிருஷ்ணமூர்த்தி son of கருப்பன்",
+            "age": "49",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "சம்சுதீன் son of முகம்மது அனிபா",
+            "age": "48",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

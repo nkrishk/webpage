@@ -1,0 +1,44 @@
+{
+    "Seller": {
+        "1": {
+            "name": "மெஹராஜ் wife of முபாரக் அலி",
+            "age": "43",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "",
+            "address": "58/30, அப்பாநாயக்கர் வீதி, மேட்டுப்பாளையம் SIKKADASAMPALAYAM Mettupalayam Coimbatore Tamil Nadu 641301"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "சூரியபிரகாஷ் son of ராமலிங்கம்",
+            "age": "40",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9994924451"
+        },
+        "2": {
+            "name": "சுமத்ரா wife of சூரியபிரகாஷ்",
+            "age": "38",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9994924451"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "காளபெருமாள் son of சாமிநாடார்",
+            "age": "41",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "காதர்பாஷா son of சாகுல்அமீது",
+            "age": "41",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

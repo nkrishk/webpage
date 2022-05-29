@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ஏ ஜோசப் பாஸ்கரன் son of டி அந்தோனி",
+            "age": "79",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "7845651883",
+            "address": "3/82இ சிறுமுகை அஞ்சல் அண்ணா நகர்  மேட்டுப்பாளையம் - Select - - Select - Coimbatore Tamil Nadu 641302"
+        }
+    },
+    "Settlee": {
+        "1": {
+            "name": "நிருபா wife of கிரிஸ்",
+            "age": "51",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": ""
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "ஜெனட் பெர்ணான்டோ ஜோசப்பாஸ்கரன் wife of ஜோசப்பாஸ்கரன்",
+            "age": "76",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "விமலா wife of ஜெமிட்டன் பெர்னாண்டோ",
+            "age": "67",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

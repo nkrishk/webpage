@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "அங்காத்தாள் wife of தம்பு",
+            "age": "56",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "",
+            "address": "5-88, சேரன் நகர் SIKKADASAMPALAYAM Mettupalayam Coimbatore Tamil Nadu 641301"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "ராணி wife of சின்னமுத்து",
+            "age": "73",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9894794823"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "ரமேஷ் son of அங்கமுத்து",
+            "age": "40",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "கிருஷ்ணமூர்த்தி son of கருப்பன்",
+            "age": "55",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

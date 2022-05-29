@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "சந்திராபாய் wife of ஜேக்கப்",
+            "age": "79",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9092008220",
+            "address": "35 ஈபி  காலனி, கெண்டையூர், மேட்டுப்பாளையம் - Select - - Select - Coimbatore Tamil Nadu 641305"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "தமிழரசி wife of மாயகிருஷ்ணன்",
+            "age": "36",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9092008220"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "பெஞ்சமின் மனோகரன் son of ஜேக்கப்",
+            "age": "50",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "மாயகிருஷ்ணன் son of வேலு",
+            "age": "44",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Seller": {
+        "1": {}
+    },
+    "Buyer": {
+        "1": {
+            "name": "ராணி wife of சின்னமுத்து",
+            "age": "40",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9842273199"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "முஸ்தபா son of சுலைமான்",
+            "age": "46",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "சம்சுதீன் son of முகம்மது அனிபா",
+            "age": "45",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Buyer": {
+        "1": {
+            "name": "பிஷீலா சாந்திபாய்",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "298 வள்ளுவர் நகர் இந்து நகர் உதகை"
+        }
+    },
+    "Seller": {
+        "2": {
+            "name": "பிஜார்ஜ்",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "53ஏ ஆழ்வார்பேட்டை குன்னூர்"
+        },
+        "3": {
+            "name": "பிசெல்வராஜ்",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "3ஏ சாந்தி நிலையம் அட்டடி குன்னூர்"
+        },
+        "4": {
+            "name": "பிடேவிட்",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "57 வுட்சைட் உதகை"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ரோசாலி wife of ஜார்ஜ்",
+            "age": "52",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "",
+            "address": "பி-006, புனே    Maharashtra 421203"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "ராஜன் son of தங்கராஜ்",
+            "age": "51",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "6383201989"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "பூங்கொடி daughter of பொன்னுசாமி",
+            "age": "26",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "கிருஷ்ணமூர்த்தி son of கருப்பன்",
+            "age": "56",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

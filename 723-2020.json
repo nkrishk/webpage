@@ -1,0 +1,77 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ஷாகுல் ஹமீது son of முஹம்மது சுல்தான்",
+            "age": "70",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "6381469323",
+            "address": "64, எம்.எஸ்.ஆர் புரம், மேட்டுப்பாளையம் Mettupalayam [URBAN] Mettupalayam Coimbatore Tamil Nadu 641301"
+        },
+        "2": {
+            "name": "பாத்திமா ஜொகரா wife of அப்துல்கனி",
+            "age": "52",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "6381469323",
+            "address": "8/809 ஏ, லட்சுமி நகர், மேட்டுநாசுவம்பாளையம், பவானி BHAVANI_13 Bhavani Erode Tamil Nadu 638316"
+        },
+        "3": {
+            "name": "சுல்தான் பாட்ஷா son of ஷாகுல் ஹமீது",
+            "age": "55",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "6381469323",
+            "address": "368/173ஏ, எம்.ஆர்.டி நகர், சிறுமுகை ரோடு, மேட்டுப்பாளையம் Mettupalayam [URBAN] Mettupalayam Coimbatore Tamil Nadu 641301"
+        },
+        "4": {
+            "name": "S.ஷேக்அப்துல் காதர் son of சாகுல் அமீது",
+            "age": "44",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "6381469323",
+            "address": "268/99, 2 வது தளம், அண்ணாஜீராவ் ரோடு Mettupalayam [URBAN] Mettupalayam Coimbatore Tamil Nadu 641301"
+        },
+        "5": {
+            "name": "பைரோஜா பேகம் wife of உபைத்துல்லா",
+            "age": "40",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "6381469323",
+            "address": "2/64, எம்.எஸ்.ஆர் புரம் மெயின் ரோடு, Mettupalayam [URBAN] Mettupalayam Coimbatore Tamil Nadu 641301"
+        },
+        "6": {
+            "name": "S.முபாரக் அலி son of ஷாகுல் ஹமீது",
+            "age": "38",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "6381469323",
+            "address": "2, எம்.எஸ்.ஆர் புரம் ரோடு-5 Mettupalayam [URBAN] Mettupalayam Coimbatore Tamil Nadu 641301"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "பைரோஜா பேகம் wife of உபைத்துல்லா",
+            "age": "40",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "6381469323"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "அஜ்மீர் son of முகமது ஹனீபா",
+            "age": "38",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "சதக்கத்துல்லா son of அப்துல் மஜீத்",
+            "age": "51",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

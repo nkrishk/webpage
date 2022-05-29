@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "தமிழரசி wife of கோவிந்தராஜூலு",
+            "age": "40",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "",
+            "address": "3/ஏ6 - பாப்புலர் கார்டன், சின்னத்தொட்டிபாளையம் BELLATHI. Mettupalayam Coimbatore Tamil Nadu 641104"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "ராஜேஸ்வரி wife of காளிச்சாமி",
+            "age": "58",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9894507266"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "காளிச்சாமி son of ரங்கசாமி",
+            "age": "66",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "கோவிந்தராஜூலு son of ரங்கசாமி",
+            "age": "49",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

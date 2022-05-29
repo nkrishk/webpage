@@ -1,0 +1,30 @@
+{
+    "Buyer": {
+        "1": {
+            "name": "மீனாட்சி சுந்தர் பழனிசாமி (முதல்வர்)",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "3129 NORMANDY WOODS DRIVE APT,ELLICOTT CITY MD 21043"
+        },
+        "2": {
+            "name": "K.Kபழனிசாமி (முகவர்)",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "209 ஜீவா நகர் சிறுமுகை"
+        }
+    },
+    "Seller": {
+        "3": {
+            "name": "என்நாகரத்தினம்",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "17 காமராஜர் சாலை காரமடை மேட்டுப்பாளையம்"
+        }
+    }
+}

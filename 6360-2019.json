@@ -1,0 +1,65 @@
+{
+    "Seller": {
+        "1": {
+            "name": "குப்புசாமி son of காவேரி",
+            "age": "54",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "1/287, ஏழுமலை கவுண்டர்நகர், நரசோதிப்பட்டி, சேலம் - Select - - Select - Coimbatore Tamil Nadu 641004"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "தமிழரசு son of திருமலைகவுண்டர்",
+            "age": "54",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "6380190277"
+        },
+        "2": {
+            "name": "செல்வமணி son of சுப்பராயன்",
+            "age": "52",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "6380190277"
+        },
+        "3": {
+            "name": "பாலாஜி son of சண்முகசுந்தரம்",
+            "age": "50",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "6380190277"
+        },
+        "4": {
+            "name": "பார்த்திபன் son of அருணாசலம்",
+            "age": "49",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9442799969"
+        },
+        "5": {
+            "name": "பாலு son of பழனிவேல்",
+            "age": "49",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9788998084"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "விமல்ராஜூ son of குப்புசாமி",
+            "age": "35",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "கரிகாலன் son of கணபதி",
+            "age": "45",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

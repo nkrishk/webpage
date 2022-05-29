@@ -1,0 +1,21 @@
+{
+    "Seller": {
+        "1": {
+            "name": "வரதராஜன் son of ராகவாச்சாரி",
+            "age": "74",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9865911817",
+            "address": "எ-1, சூரியா அபார்ட்மென்ட், 17 மேல அடைய வளஞ்சான் தெரு, ஸ்ரீரங்கம் THIRUCHIRAPPALLI-SRIRANGAM [URBAN] Srirangam Thiruchirappalli Tamil Nadu 620006"
+        }
+    },
+    "Attorney": {
+        "1": {
+            "name": "கோபால்சாமி son of சுப்பையன்",
+            "age": "55",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9489362559"
+        }
+    }
+}

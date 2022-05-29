@@ -1,0 +1,22 @@
+{
+    "Buyer": {
+        "1": {
+            "name": "M.A.சம்சுதீன்",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "29A அண்ணாஜிராவ் ரோடு மேட்டுப்பாளையம்"
+        }
+    },
+    "Seller": {
+        "2": {
+            "name": "Dபாபு",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "19/161 மிஷன் காம்பவுண்ட்கோத்தகிரி"
+        }
+    }
+}

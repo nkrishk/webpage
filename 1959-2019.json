@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "பூங்கொடி wife of பழனிசாமி",
+            "age": "47",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "",
+            "address": "5/88,நஞ்சுண்டாபுரம்,கள்ளிப்பாளையம் - Select - - Select - Coimbatore Tamil Nadu 641107"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "மகேந்திரன் son of துரைசாமி",
+            "age": "44",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9865470894"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "கோபால்சாமி son of சுப்பையகவுண்டர்",
+            "age": "56",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "ராஜேந்திரன் son of சின்னியகவுண்டர்",
+            "age": "44",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

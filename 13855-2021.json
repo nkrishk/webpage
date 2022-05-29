@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "முகமது அல்தாப் son of அப்துல்கரீம்",
+            "age": "40",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": " - Select - - Select - - Select - Tamil Nadu "
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "குன்றில் குமார் son of நடராஜன்",
+            "age": "39",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9894794823"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "அட்சயா daughter of கண்ணன்",
+            "age": "24",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "கோபால்சாமி son of சுப்பையன்",
+            "age": "63",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

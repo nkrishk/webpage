@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ராஜன் son of தங்கராஜ்",
+            "age": "51",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "138, சத்தியசாய் நகர், அன்னூர் ரோடு, செல்வபுரம், மேட்டுப்பாளையம் - Select - - Select - Coimbatore Tamil Nadu 641301"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "ராமலட்சுமி wife of கனகசபை",
+            "age": "49",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "8508457851"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "கனகசபை son of பெரியநாடார்",
+            "age": "56",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "பூங்கொடி daughter of பொன்னுசாமி",
+            "age": "26",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

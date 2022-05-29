@@ -1,0 +1,28 @@
+{
+    "Seller": {
+        "1": {
+            "name": "அய்யனார் son of லேட் சித்திரவேலு",
+            "age": "56",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "5/431 அச்சலிஸ்டன் துட்டப்பள்ளம் எஸ்டேட் கொட்டகோமபை - Select - - Select - Nilgiris Tamil Nadu 641009"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "வனிதாஸ்ரீ wife of குமார்",
+            "age": "38",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "சமுத்திரகனி son of ஐயனார்",
+            "age": "45",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

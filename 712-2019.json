@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "சாந்தாமணி wife of நடராஜன்",
+            "age": "60",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9842273199",
+            "address": "3/101ஏ, தொட்டபாவி JADAYAMPALAYAM. Mettupalayam Coimbatore Tamil Nadu 641302"
+        }
+    },
+    "Settlee": {
+        "1": {
+            "name": "பூர்ணிமா wife of அருண்",
+            "age": "42",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": ""
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "சரவணக்குமார் son of நடராஜன்",
+            "age": "49",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "நடராஜன் son of சின்னத்தம்மகவுடர்",
+            "age": "65",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ரமேஷ் son of ராமன்",
+            "age": "56",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9442070851",
+            "address": "6/180ஏ, தங்காடு, பாலக்கொலா, ஓரநள்ளி - Select - Udhagai Nilgiris Tamil Nadu 643003"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "செல்வகுமார் son of துரைராஜ்",
+            "age": "29",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "8122552867"
+        },
+        "2": {
+            "name": "மீரா wife of செல்வகுமார்",
+            "age": "28",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "7845523211"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "முபாரக் அலி son of அப்துல்காதர்",
+            "age": "50",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "பர்வின்பானு wife of ஹமீது",
+            "age": "40",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ராஜரெத்தினம் son of சின்னையன்",
+            "age": "46",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9629641487",
+            "address": "16,E - பிளாக், முதல் மாடி, புதுத்தெரு,மைலாப்பூர், சென்னை - Select - - Select - Chennai Tamil Nadu 600004"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "கோபால்சாமி son of சுப்பையகவுண்டர்",
+            "age": "63",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9952398530"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "பாரத் ராஜா son of டேனியல்",
+            "age": "49",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "சம்சுதீன் son of முகம்மது அனிபா",
+            "age": "50",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

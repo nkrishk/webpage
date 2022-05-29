@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "சம்பத்குமார் son of தங்கவேலு",
+            "age": "55",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "345/10என், காமராஜ் நகர், சிறுமுகை - Select - - Select - Coimbatore Tamil Nadu 641302"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "முகம்மது ஜமீல் son of முகமது ஹாசிம்",
+            "age": "55",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "6369224168"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "நாசர் son of இஸ்மாயில்",
+            "age": "65",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "ராஜன் son of தங்கராஜ்",
+            "age": "50",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

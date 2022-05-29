@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "வரதராஜன் son of ராகவாச்சாரி",
+            "age": "74",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": " - Select - - Select - - Select - Tamil Nadu "
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "ஆயிஷா wife of சமீர் பாஷா",
+            "age": "27",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9865911817"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "மும்தாஜ் பேகம் wife of இஸ்மாயில்",
+            "age": "60",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "இஸ்மாயில் son of முஸ்தபா",
+            "age": "63",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

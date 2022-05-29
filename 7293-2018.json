@@ -1,0 +1,30 @@
+{
+    "Seller": {
+        "1": {}
+    },
+    "Mortgagee": {
+        "1": {
+            "name": "இந்தியன் வங்கி",
+            "age": "-",
+            "gender": "-",
+            "type": "Government",
+            "mobile": "-"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "செந்தில்குமார் son of சுப்பையன்",
+            "age": "48",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "முகமது உமர்பாரூக் son of முகமது அனீபா",
+            "age": "60",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

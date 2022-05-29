@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "முகமது யூசுப் son of அப்துல் மஜீத்",
+            "age": "43",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9095203280",
+            "address": "10/81.குசுமகிரி,கூடலூர் பஜார், - Select - Gudalur Nilgiris Tamil Nadu 643212"
+        }
+    },
+    "Mortgagee": {
+        "1": {
+            "name": "ரெப்கோ ஹோம் பினான்ஸ் லிமிடெட்",
+            "age": "-",
+            "gender": "-",
+            "type": "Company/Firm/trust",
+            "mobile": ""
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "வினோத்குமார் son of தம்பு",
+            "age": "36",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "இஸ்மாயில் son of பாஷா",
+            "age": "38",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "மஞ்சுளா wife of பார்த்தசாரதி",
+            "age": "50",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "",
+            "address": "39ஏ, தாராபுரம் ரோடு, நெகம்ம் - Select - - Select - Coimbatore Tamil Nadu 642120"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "சுகாசினி wife of வெங்கடேஷ்",
+            "age": "35",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "8825898436"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "முருகேசன் son of நாச்சிமுத்து",
+            "age": "50",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "சுப்பையன் son of திப்பையகவுடர்",
+            "age": "52",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

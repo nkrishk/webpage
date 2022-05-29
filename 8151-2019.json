@@ -1,0 +1,44 @@
+{
+    "Seller": {
+        "1": {
+            "name": "மகேந்திரன் son of துரைசாமி",
+            "age": "45",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9944074252",
+            "address": "5/22ஏ பாயப்பனுார் சிக்கதாசம்பாளையம் SIKKADASAMPALAYAM Mettupalayam Coimbatore Tamil Nadu 641301"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "எல்லப்பராஜ் son of சுப்புராஜ்",
+            "age": "29",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "7538863438"
+        },
+        "2": {
+            "name": "உமாமகேஸ்வரி daughter of முக்கையா",
+            "age": "29",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9944074252"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "சிவசாமி son of ஆறுக்குட்டி கவுண்டர்",
+            "age": "65",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "மகேஸ்குமார் son of திருப்பதிசாமி",
+            "age": "34",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

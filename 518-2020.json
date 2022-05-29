@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "சங்கர் son of செல்லமுத்து",
+            "age": "50",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "8248302300",
+            "address": "280, சிறுமுகை ரோடு, மேட்டுப்பாளையம் - Select - Mettupalayam Coimbatore Tamil Nadu 641301"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "ராணி wife of சின்னமுத்து",
+            "age": "73",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9894794823"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "கிருஷ்ணமூர்த்தி son of கருப்பன்",
+            "age": "55",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "ரமேஷ் son of அங்கமுத்து",
+            "age": "40",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

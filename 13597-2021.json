@@ -1,0 +1,21 @@
+{
+    "Seller": {
+        "1": {
+            "name": "முகமது அல்தாப் son of அப்துல்கரீம்",
+            "age": "40",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9894794823",
+            "address": "131/1 டி.பி. ரோடு அன்னூர் ANNUR. Annur Coimbatore Tamil Nadu 641653"
+        }
+    },
+    "Attorney": {
+        "1": {
+            "name": "சின்னசாமி son of நாச்சிமுத்து",
+            "age": "62",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9345415438"
+        }
+    }
+}

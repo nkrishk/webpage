@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "செந்தில் ராஜா son of பீமன்",
+            "age": "45",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "269 - அச்சனக்கல், கேத்தி அஞ்சல் - Select - - Select - Nilgiris Tamil Nadu 643203"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "சரத்குமார் son of தண்டபானி",
+            "age": "38",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9994847343"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "சுரேஷ்குமார் son of இராமசாமி",
+            "age": "47",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "கிருஷ்ணமூர்த்தி son of கருப்பன்",
+            "age": "56",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

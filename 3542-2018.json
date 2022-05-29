@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "பி . செந்தில் குமார் son of எம் பாண்டியன்",
+            "age": "39",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9952033332",
+            "address": "15/1 டாக்டர் முனுசாமி கார்டன்,  அவிநாசி ரோடு, கோயம்புத்துர் - Select - Coimbatore South Coimbatore Tamil Nadu 641018"
+        }
+    },
+    "Settlee": {
+        "1": {
+            "name": "ஜெ . ஸ்ரீவாணி wife of பி செந்தில் குமார்",
+            "age": "37",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": ""
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "தீபக் son of பெருமாள் சாமி",
+            "age": "21",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "நந்தகுமார் son of லக்ஷ்மணசாமி",
+            "age": "26",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

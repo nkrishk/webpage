@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "மார்கிரேட் செசலி wife of ஜேம்ஸ்",
+            "age": "84",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9442652269",
+            "address": "34-1 வேளாங்கண்ணி நகர் மேட்டுப்பாளையம் - Select - - Select - Coimbatore Tamil Nadu 641301"
+        }
+    },
+    "Settlee": {
+        "1": {
+            "name": "கிறிஸ்டீனா daughter of ஜேம்ஸ்",
+            "age": "45",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9442652269"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "முருகேசன் son of ஆண்டியப்பன்",
+            "age": "40",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "வேலுமணி son of லிங்கப்பகவுடர்",
+            "age": "48",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

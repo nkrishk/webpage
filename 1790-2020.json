@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "தேவராஜ் son of வெள்ளையப்பமுதலியார்",
+            "age": "79",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9159008344",
+            "address": "12/27, விநாயகர் கோவில் வீதி, மகாதேவபுரம், மேட்டுப்பாளையம் - Select - - Select - Coimbatore Tamil Nadu 641301"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "ஜெயா wife of ரங்கசாமி",
+            "age": "54",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9965248633"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "பிரேமா wife of விஜயகுமார்",
+            "age": "50",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "சுப்பையன் son of திப்பையகவுடர்",
+            "age": "50",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ராஜேஸ்வரி wife of கிருஷ்ணமூர்த்தி",
+            "age": "47",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "",
+            "address": "122,முத்தமிழ் நகர், மகாதேவபுரம், மேட்டுப்பாளையம் SIKKADASAMPALAYAM Mettupalayam Coimbatore Tamil Nadu 641305"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "மோகன்ராஜ் son of ராமலிங்கம்",
+            "age": "32",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "8144433369"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "சகுந்தலா ராணி wife of ராமலிங்கம்",
+            "age": "61",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "காளபெருமாள் son of சாமிநாடார்",
+            "age": "41",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

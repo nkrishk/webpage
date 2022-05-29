@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "புவனேஸ்வரி daughter of நடராஜன்",
+            "age": "45",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9443349700",
+            "address": "29/19 ஸ்ரீ சூர்யோதையா அப்பார்ட்மெண்ட் முதல் தளம், ஸ்ரீ ராம் நகர், சொக்கம்புதுார், கோயம்புத்துார் - Select - Coimbatore South Coimbatore Tamil Nadu 641039"
+        }
+    },
+    "Settlee": {
+        "1": {
+            "name": "மஞ்சுளா daughter of நடராஜன்",
+            "age": "48",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9443349700"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "சரவணக்குமார் son of நடராஜன்",
+            "age": "41",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "ராஜேஸ்வரி wife of நடராஜன்",
+            "age": "66",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

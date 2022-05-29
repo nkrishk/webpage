@@ -1,0 +1,45 @@
+{
+    "Seller": {
+        "1": {
+            "name": "ராஜகோபால் son of சேமலையப்பன்",
+            "age": "45",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9442008876",
+            "address": "152கே6பி, கோவை ரோடு, கே.கே.நகர், சிக்கதாசம்பாளையம் Mettupalayam [URBAN] Mettupalayam Coimbatore Tamil Nadu 641301"
+        },
+        "2": {
+            "name": "தண்டபாணி son of கருப்பண்ணன்",
+            "age": "41",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9442008788",
+            "address": "12/81ஈ8, பாரதி நகர், சிக்கதாசம்பாளையம் Mettupalayam [URBAN] Mettupalayam Coimbatore Tamil Nadu 641301"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "ஆர் வெங்கடேஷ் son of எம் ரங்கராஜன்",
+            "age": "38",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "8971157055"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "முபாரக் அலி son of அப்துல்காதர்",
+            "age": "57",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "பர்வின்பானு wife of ஹமீது",
+            "age": "39",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Buyer": {
+        "1": {
+            "name": "Same as Executant Name",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "-"
+        }
+    },
+    "Seller": {
+        "2": {
+            "name": "V.R.சந்திரா(முதல்வர்)",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "க.எண்.50B- பைக்காரா, உதகை, நீலகிரி"
+        },
+        "3": {
+            "name": "A.திம்மையன்(முகவர்)",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "க.எண்.6/331- கணேசபுரம், இலுப்பநத்தம்மேட்டுப்பாளையம்"
+        },
+        "4": {
+            "name": "D.ராமகோபால்",
+            "age": "NA",
+            "gender": "NA",
+            "type": "NA",
+            "mobile": "NA",
+            "address": "க.எண்.12- துடியலூர் மெயின் ரோடு,இடிக்கரை,கோவை"
+        }
+    }
+}

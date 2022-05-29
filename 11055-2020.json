@@ -1,0 +1,28 @@
+{
+    "Seller": {
+        "1": {
+            "name": "வாணிஸ்ரீ wife of பிரகாஷ்",
+            "age": "45",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9629641487",
+            "address": "E-204,விக்னேஷ் மந்திரலயா, ராகவேந்திரபுரம், ஸ்ரீரங்கம் - Select - - Select - Thiruchirappalli Tamil Nadu 620006"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "ரமேஷ்குமார் son of திம்மையன்",
+            "age": "45",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "பிரகாஷ் son of அனந்தன்",
+            "age": "46",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

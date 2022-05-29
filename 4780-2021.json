@@ -1,0 +1,37 @@
+{
+    "Seller": {
+        "1": {
+            "name": "மேகநாதன் son of கந்தசாமி பிள்ளை",
+            "age": "43",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "131/1 கிரீன் பில்டு ஏட்டீன்ஸ், உதகமண்டலம் - Select - Udhagai Nilgiris Tamil Nadu 643001"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "தனராஜ் son of நஞ்சா நாயக்கர்",
+            "age": "58",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9360513226"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "நந்தினி குமாரி wife of காளியப்பன்",
+            "age": "26",
+            "gender": "Female",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "நரேஷ்குமார் son of தனராஜ்",
+            "age": "30",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "Seller": {
+        "1": {
+            "name": "அமானுல்லா son of உசைன்",
+            "age": "50",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "9944074252",
+            "address": "11/181 தேவாலா பஜார் தேவாலா கூடலூர் DEVALA 1 Gudalur Nilgiris Tamil Nadu 643212"
+        },
+        "2": {
+            "name": "அப்சரா wife of நூர்முகம்மது",
+            "age": "25",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9944074252",
+            "address": "61 எம்.எஸ்.கார்டன் குனியமுத்தூர் கோவை Coimbatore South [URBAN] Coimbatore South Coimbatore Tamil Nadu 641008"
+        },
+        "3": {
+            "name": "அசாரூதீன் son of அமானுல்லா",
+            "age": "22",
+            "gender": "Male",
+            "type": "Individual",
+            "mobile": "",
+            "address": "10/271 தேவாலா பஜார் தேவாலா கூடலூர் DEVALA 1 Gudalur Nilgiris Tamil Nadu 643270"
+        }
+    },
+    "Buyer": {
+        "1": {
+            "name": "ரமாதேவி wife of முத்துசெல்வம்",
+            "age": "31",
+            "gender": "Female",
+            "type": "Individual",
+            "mobile": "9965120073"
+        }
+    },
+    "Witness": {
+        "1": {
+            "name": "சிவசாமி son of ஆறுக்குட்டிகவுண்டர்",
+            "age": "65",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        },
+        "2": {
+            "name": "ராஜன் son of தங்கராஜ்",
+            "age": "49",
+            "gender": "Male",
+            "type": "Identification Witness",
+            "mobile": ""
+        }
+    }
+}
